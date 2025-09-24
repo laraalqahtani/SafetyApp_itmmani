@@ -1,3 +1,9 @@
+<p align="center">
+<img width="198" height="160" alt="image" src="https://github.com/user-attachments/assets/023a4774-dc6b-4337-af86-d79e9140e0c5" />
+
+</p>
+
+
 # Itmmani – Women Safety App  
 
 Itmmani is a mobile application built with **Java** and **XML** in **Android Studio**.  
