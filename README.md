@@ -24,7 +24,7 @@ The app’s main goal is to support women’s safety by providing access to **sa
 - **Language:** Java  
 - **UI:** XML  
 - **IDE:** Android Studio  
-- **Database:** (Add SQLite / Firebase if used)  
+- **Database:** SQLite
 
 ---
 
